@@ -1,6 +1,6 @@
 ## Welcome to My Website!
 
-Hi! My name is Lucy. I am an incoming freshman at MIT.
+Hi! My name is Lucy. Thank you for viewing my site!
 
 ![Profile](https://user-images.githubusercontent.com/65609176/83054204-0b778000-a020-11ea-9771-0f64174ab9ec.jpg)
 
@@ -8,10 +8,12 @@ Hi! My name is Lucy. I am an incoming freshman at MIT.
 
 Facebook: https://www.facebook.com/lucy.zou.1048/
 
-### Jekyll Themes
+### Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucyz-code/my-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+East Brunswick High School Class of 2020
 
-### Support or Contact
+### Accomplishments
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Regeneron Science Talent Search Scholar
+2. USA Biology Olympiad National Finalist
+3. Valedictorian of Class
