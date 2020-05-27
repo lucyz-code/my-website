@@ -1,6 +1,6 @@
 ## Welcome to My Website!
 
-Hi! My name is Lucy. Thank you for viewing my site!
+Hi! My name is Lucy Zou. Thank you for viewing my site!
 
 ![Profile](https://user-images.githubusercontent.com/65609176/83054204-0b778000-a020-11ea-9771-0f64174ab9ec.jpg)
 
