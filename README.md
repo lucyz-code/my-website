@@ -2,7 +2,7 @@
 
 Hi! My name is Lucy. I am an incoming freshman at MIT.
 
-[1]: https://raw.githubusercontent.com/lucyz-code/my-website/master/Profile.jpg
+![Profile](https://user-images.githubusercontent.com/65609176/83054204-0b778000-a020-11ea-9771-0f64174ab9ec.jpg)
 
 ### Markdown
 
