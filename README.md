@@ -2,6 +2,8 @@
 
 Hi! My name is Lucy. I am an incoming freshman at MIT.
 
+https://raw.githubusercontent.com/lucyz-code/my-website/master/Profile.jpg
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
