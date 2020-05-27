@@ -4,29 +4,9 @@ Hi! My name is Lucy. I am an incoming freshman at MIT.
 
 ![Profile](https://user-images.githubusercontent.com/65609176/83054204-0b778000-a020-11ea-9771-0f64174ab9ec.jpg)
 
-### Markdown
+### Social Media Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Facebook: https://www.facebook.com/lucy.zou.1048/
 
 ### Jekyll Themes
 
